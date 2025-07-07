@@ -3,7 +3,7 @@ Trust Wallet Support Number, Login & Signup Guide 2025
 ##################
 
 .. meta::
-   :msvalidate.01: content="B6EE421CD1D380A4016F1B0EE988CE90
+   :msvalidate.01: B6EE421CD1D380A4016F1B0EE988CE90
 
 
 ==================
